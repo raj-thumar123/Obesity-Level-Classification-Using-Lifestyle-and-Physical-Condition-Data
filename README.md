@@ -1,5 +1,5 @@
 # Obesity-Level-Classification-Using-Lifestyle-and-Physical-Condition-Data
-A machine learning classification project to predict obesity levels based on eating habits, physical activity, and demographic data from Mexico, Peru, and Colombia
+The aim of this project is to analyze a dataset containing personal, lifestyle, and health-related factors to predict obesity risk categories using various machine learning models. The analysis involves exploratory data analysis (EDA), data preprocessing, and application of classification algorithms.
 
 This project focuses on predicting obesity levels based on lifestyle habits and physical attributes of individuals from Mexico, Peru, and Colombia, ranging in age from 14 to 61. The dataset, collected through a web-based survey, includes 2,111 records with 17 features, covering aspects such as eating habits, physical activity, and demographics.
 
